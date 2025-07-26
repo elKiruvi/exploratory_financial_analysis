@@ -11,15 +11,17 @@ The script fetches historical stock data for multiple tickers (`AAPL`, `NVDA`, `
 
 #### 1. Price Performance
 Compares the historical price performance of selected assets.
-`![Time Series Price Chart](images/price_chart.png)`
+<img width="1103" height="360" alt="output_8_1" src="https://github.com/user-attachments/assets/a45bbe2d-194e-4773-b8ac-ca9da95b5860" />
 
 #### 2. Trading Volume
 Shows daily trading volume to gauge market activity and investor interest.
-`![Trading Volume Chart](images/volume_chart.png)`
+<img width="1103" height="360" alt="output_10_0" src="https://github.com/user-attachments/assets/97aa19a7-fef4-44ee-ba3b-a784f198639d" />
+
 
 #### 3. Price Distribution
 Analyzes the frequency distribution of a stock's price within a given period.
-`![Price Distribution Histogram](images/distribution_chart.png)`
+<img width="989" height="790" alt="output_14_1" src="https://github.com/user-attachments/assets/1928b3cf-6db3-46cb-ba34-43fb263c05d8" />
+
 
 ## Tech Stack
 
