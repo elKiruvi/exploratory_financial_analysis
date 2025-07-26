@@ -30,8 +30,8 @@ Analyzes the frequency distribution of a stock's price within a given period.
 
 ## How to Run
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
 
-2.  **Install dependencies:**
+2.  **Install dependencies**
 
-3.  **Launch Jupyter Notebook:**
+3.  **Launch Jupyter Notebook**
